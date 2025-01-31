@@ -9,6 +9,8 @@ This is **primarily an educational project** designed to help understand the ful
 - Provides up-to-date news and updates 🔄
 - Centralized platform for efficient preparation 🎓
 
+![Agrega screenshot](images/agrega_screenshot.png)
+
 ## 📲 Installation
 Instructions for installing the project will be added soon! ⏳
 
