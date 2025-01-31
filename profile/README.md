@@ -14,8 +14,3 @@ Instructions for installing the project will be added soon! ⏳
 
 ## 📚 Documentation
 The documentation is currently under construction. Please stay tuned for detailed guides on setup, usage, and features. 🛠️
-
-
-### License
-
-This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
